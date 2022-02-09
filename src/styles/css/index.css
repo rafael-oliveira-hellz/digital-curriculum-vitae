@@ -663,7 +663,7 @@ h2>.badge-hover {
     display: block;
     position: absolute;
     margin-left: -150px;
-    bottom: -5px;
+    bottom: -25px;
 }
 
 #scrum-badge .badge-hover {
