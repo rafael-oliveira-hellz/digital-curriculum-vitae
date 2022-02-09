@@ -663,7 +663,7 @@ h2>.badge-hover {
     display: block;
     position: absolute;
     margin-left: -150px;
-    bottom: 5px;
+    bottom: -5px;
 }
 
 #scrum-badge .badge-hover {
@@ -675,7 +675,6 @@ h2>.badge-hover {
     display: block;
     position: absolute;
     margin-left: -300px;
-    bottom: 5px;
 }
 
 #magento-badge .badge-hover {
