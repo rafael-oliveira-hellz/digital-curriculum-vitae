@@ -5,7 +5,7 @@ import ProgressBar from '../ProgressBar';
 import Skills from '../Skills';
 import { langData } from '../../utils';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faAsterisk, faBriefcase, faEnvelope, faGlobe, faHome, faPhone } from '@fortawesome/free-solid-svg-icons';
+import { faBriefcase, faEnvelope, faGlobe, faHome, faPhone, faScrewdriverWrench } from '@fortawesome/free-solid-svg-icons';
 
 
 const GeneralDataCard = () => {
@@ -44,7 +44,7 @@ const GeneralDataCard = () => {
 
                 <section>
                 <br />
-                    <h2 className='margin-left'><b className="text-uppercase"><FontAwesomeIcon icon={faAsterisk} className='margin-right full-text' />Skills</b></h2><br />
+                    <h2 className='margin-left'><b className="text-uppercase"><FontAwesomeIcon icon={faScrewdriverWrench} className='margin-right full-text' />Skills</b></h2><br />
 
                     <Skills />
                 </section>
