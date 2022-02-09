@@ -234,6 +234,10 @@ main>.right-content {
     padding: 0 0.5rem;
 }
 
+.left-content {
+    min-height: 100%;
+}
+
 .left-content,
 .right-content {
     float: left;
