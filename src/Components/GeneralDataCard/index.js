@@ -51,7 +51,7 @@ const GeneralDataCard = () => {
 
                 <hr />
 
-                <section>
+                <section style={{minHeight: '1360px'}}>
                 <br />
                     <h2 className='margin-left'><b className="text-uppercase"><FontAwesomeIcon icon={faGlobe} className='margin-right full-text' />Idiomas</b></h2><br />
 
